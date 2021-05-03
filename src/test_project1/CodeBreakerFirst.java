@@ -96,7 +96,7 @@ public class CodeBreakerFirst {
             //終了判断　ヒットが3つになったら終了
             System.out.println("ヒット" + hit + " ブロー" + blow);
             if (hit == 3) {
-                System.out.println("おめでとー");
+                System.out.println("おめでとー!");
                 break;
             }else{
                 System.out.println();
